@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "483104044980",
+    "project_id": "uniride-gsu",
+    "storage_bucket": "uniride-gsu.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483104044980:android:0bebacb0e7203db0c724e1",
+        "android_client_info": {
+          "package_name": "com.example.uniride"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9mpe0sYud3yXcqHX1v-Lp5siQ4qXEI_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

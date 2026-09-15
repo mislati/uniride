@@ -1,0 +1,5978 @@
+{
+  "1st Gate": {
+    "2nd Gate": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "Diploma Gate": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Admin Block": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Senate Building": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "ICT": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "NITDA Complex": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Main Library": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "Convocation Square": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Security Office": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Male Hostel": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "Male Hostel Mosque": {
+      "distance_m": 1200,
+      "time_min": 6,
+      "price_naira": 200
+    },
+    "GSU Juma’a Mosque": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Old Female Hostel": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "New Female Hostel": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Center of Open and Distance Learning": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "Center for Entrepreneur Development": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "GSU Postgraduate School": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "School of Basic and Remedial Studies": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "University Zoo": {
+      "distance_m": 1000,
+      "time_min": 5,
+      "price_naira": 200
+    },
+    "University Clinic": {
+      "distance_m": 1200,
+      "time_min": 6,
+      "price_naira": 200
+    },
+    "Medical College": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Faculty of Science Complex": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Faculty of pharmaceutical Science": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Faculty of Law": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "Faculty of Arts and Social Sciences": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "Faculty of Education": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "SRC garden": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Mango Garden": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "Love Garden": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Faculty Rooms": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "A Block": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "E Block": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LC1 LC2 LC3 LC4 LC5 LC6": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT 1&2": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT3": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT4": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "LT 5&6": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT 7&8": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "LT 9&10": {
+      "distance_m": 1000,
+      "time_min": 5,
+      "price_naira": 200
+    },
+    "LT11": {
+      "distance_m": 1000,
+      "time_min": 5,
+      "price_naira": 200
+    },
+    "LT12 & LT13": {
+      "distance_m": 1000,
+      "time_min": 5,
+      "price_naira": 200
+    },
+    "LT14": {
+      "distance_m": 1000,
+      "time_min": 5,
+      "price_naira": 200
+    },
+    "LTA & LTB": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "New MPH": {
+      "distance_m": 1000,
+      "time_min": 5,
+      "price_naira": 200
+    },
+    "Old MPH": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "English Theatre": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "Science Complex Commercial Center": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "T Junction": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    }
+  },
+  "2nd Gate": {
+    "Diploma Gate": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "Admin Block": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Senate Building": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "ICT": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "NITDA Complex": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "Main Library": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Convocation Square": {
+      "distance_m": 1000,
+      "time_min": 5,
+      "price_naira": 200
+    },
+    "Security Office": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Male Hostel": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "Male Hostel Mosque": {
+      "distance_m": 1000,
+      "time_min": 5,
+      "price_naira": 200
+    },
+    "GSU Juma’a Mosque": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Old Female Hostel": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "New Female Hostel": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Center of Open and Distance Learning": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "Center for Entrepreneur Development": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "GSU Postgraduate School": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "School of Basic and Remedial Studies": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "University Zoo": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "University Clinic": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Medical College": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Faculty of Science Complex": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Faculty of pharmaceutical Science": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Faculty of Law": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Faculty of Arts and Social Sciences": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Faculty of Education": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "SRC garden": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Mango Garden": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Love Garden": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Faculty Rooms": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "A Block": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "E Block": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LC1 LC2 LC3 LC4 LC5 LC6": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT 1&2": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT3": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT4": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 5&6": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT 7&8": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 9&10": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT11": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT12 & LT13": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT14": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LTA & LTB": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "New MPH": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Old MPH": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "English Theatre": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Science Complex Commercial Center": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "T Junction": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    }
+  },
+  "Diploma Gate": {
+    "Admin Block": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Senate Building": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "ICT": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "NITDA Complex": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Main Library": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Convocation Square": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Security Office": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Male Hostel": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Male Hostel Mosque": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "GSU Juma’a Mosque": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "Old Female Hostel": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "New Female Hostel": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Center of Open and Distance Learning": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Center for Entrepreneur Development": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "GSU Postgraduate School": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "School of Basic and Remedial Studies": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "University Zoo": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "University Clinic": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "Medical College": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Faculty of Science Complex": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Faculty of pharmaceutical Science": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "Faculty of Law": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "Faculty of Arts and Social Sciences": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Faculty of Education": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "SRC garden": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Mango Garden": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "Love Garden": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Faculty Rooms": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "A Block": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "E Block": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LC1 LC2 LC3 LC4 LC5 LC6": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT 1&2": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT3": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "LT4": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "LT 5&6": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "LT 7&8": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT 9&10": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "LT11": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "LT12 & LT13": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "LT14": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LTA & LTB": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "New MPH": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "Old MPH": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "English Theatre": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "Science Complex Commercial Center": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "T Junction": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    }
+  },
+  "Admin Block": {
+    "Senate Building": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "ICT": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "NITDA Complex": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Main Library": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Convocation Square": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Security Office": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Male Hostel": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Male Hostel Mosque": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "GSU Juma’a Mosque": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Old Female Hostel": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "New Female Hostel": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Center of Open and Distance Learning": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Center for Entrepreneur Development": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "GSU Postgraduate School": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "School of Basic and Remedial Studies": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "University Zoo": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "University Clinic": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Medical College": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Faculty of Science Complex": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Faculty of pharmaceutical Science": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Faculty of Law": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Faculty of Arts and Social Sciences": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Faculty of Education": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "SRC garden": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Mango Garden": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Love Garden": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Faculty Rooms": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "A Block": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "E Block": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LC1 LC2 LC3 LC4 LC5 LC6": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 1&2": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT3": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT4": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 5&6": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 7&8": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 9&10": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT11": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT12 & LT13": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT14": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LTA & LTB": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "New MPH": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Old MPH": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "English Theatre": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Science Complex Commercial Center": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "T Junction": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    }
+  },
+  "Senate Building": {
+    "ICT": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "NITDA Complex": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Main Library": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Convocation Square": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Security Office": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Male Hostel": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Male Hostel Mosque": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "GSU Juma’a Mosque": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Old Female Hostel": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "New Female Hostel": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Center of Open and Distance Learning": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Center for Entrepreneur Development": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "GSU Postgraduate School": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "School of Basic and Remedial Studies": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "University Zoo": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "University Clinic": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Medical College": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Faculty of Science Complex": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Faculty of pharmaceutical Science": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Faculty of Law": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Faculty of Arts and Social Sciences": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Faculty of Education": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "SRC garden": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Mango Garden": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Love Garden": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Faculty Rooms": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "A Block": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "E Block": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LC1 LC2 LC3 LC4 LC5 LC6": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 1&2": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT3": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT4": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 5&6": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 7&8": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT 9&10": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT11": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT12 & LT13": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT14": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LTA & LTB": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "New MPH": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Old MPH": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "English Theatre": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Science Complex Commercial Center": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "T Junction": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    }
+  },
+  "ICT": {
+    "NITDA Complex": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Main Library": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Convocation Square": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Security Office": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Male Hostel": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Male Hostel Mosque": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "GSU Juma’a Mosque": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Old Female Hostel": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "New Female Hostel": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Center of Open and Distance Learning": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Center for Entrepreneur Development": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "GSU Postgraduate School": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "School of Basic and Remedial Studies": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "University Zoo": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "University Clinic": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Medical College": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Faculty of Science Complex": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Faculty of pharmaceutical Science": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Faculty of Law": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Faculty of Arts and Social Sciences": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Faculty of Education": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "SRC garden": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Mango Garden": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Love Garden": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Faculty Rooms": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "A Block": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "E Block": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LC1 LC2 LC3 LC4 LC5 LC6": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 1&2": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT3": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT4": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 5&6": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 7&8": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT 9&10": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT11": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT12 & LT13": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT14": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LTA & LTB": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "New MPH": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Old MPH": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "English Theatre": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Science Complex Commercial Center": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "T Junction": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    }
+  },
+  "NITDA Complex": {
+    "Main Library": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Convocation Square": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Security Office": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Male Hostel": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Male Hostel Mosque": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "GSU Juma’a Mosque": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Old Female Hostel": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "New Female Hostel": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Center of Open and Distance Learning": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Center for Entrepreneur Development": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "GSU Postgraduate School": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "School of Basic and Remedial Studies": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "University Zoo": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "University Clinic": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Medical College": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Faculty of Science Complex": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Faculty of pharmaceutical Science": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Faculty of Law": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Faculty of Arts and Social Sciences": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Faculty of Education": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "SRC garden": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Mango Garden": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Love Garden": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Faculty Rooms": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "A Block": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "E Block": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LC1 LC2 LC3 LC4 LC5 LC6": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 1&2": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT3": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT4": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 5&6": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 7&8": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 9&10": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT11": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT12 & LT13": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT14": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LTA & LTB": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "New MPH": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Old MPH": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "English Theatre": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Science Complex Commercial Center": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "T Junction": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    }
+  },
+  "Main Library": {
+    "Convocation Square": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Security Office": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Male Hostel": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Male Hostel Mosque": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "GSU Juma’a Mosque": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Old Female Hostel": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "New Female Hostel": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Center of Open and Distance Learning": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Center for Entrepreneur Development": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "GSU Postgraduate School": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "School of Basic and Remedial Studies": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "University Zoo": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "University Clinic": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Medical College": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Faculty of Science Complex": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Faculty of pharmaceutical Science": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Faculty of Law": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Faculty of Arts and Social Sciences": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Faculty of Education": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "SRC garden": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Mango Garden": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Love Garden": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Faculty Rooms": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "A Block": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "E Block": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LC1 LC2 LC3 LC4 LC5 LC6": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT 1&2": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT3": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT4": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT 5&6": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT 7&8": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 9&10": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT11": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT12 & LT13": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT14": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LTA & LTB": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "New MPH": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Old MPH": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "English Theatre": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Science Complex Commercial Center": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "T Junction": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    }
+  },
+  "Convocation Square": {
+    "Security Office": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Male Hostel": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Male Hostel Mosque": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "GSU Juma’a Mosque": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Old Female Hostel": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "New Female Hostel": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Center of Open and Distance Learning": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Center for Entrepreneur Development": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "GSU Postgraduate School": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "School of Basic and Remedial Studies": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "University Zoo": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "University Clinic": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Medical College": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Faculty of Science Complex": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Faculty of pharmaceutical Science": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Faculty of Law": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "Faculty of Arts and Social Sciences": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Faculty of Education": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "SRC garden": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Mango Garden": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Love Garden": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Faculty Rooms": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "A Block": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "E Block": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LC1 LC2 LC3 LC4 LC5 LC6": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 1&2": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT3": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT4": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT 5&6": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT 7&8": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 9&10": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT11": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT12 & LT13": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT14": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LTA & LTB": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "New MPH": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Old MPH": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "English Theatre": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Science Complex Commercial Center": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "T Junction": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    }
+  },
+  "Security Office": {
+    "Male Hostel": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Male Hostel Mosque": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "GSU Juma’a Mosque": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Old Female Hostel": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "New Female Hostel": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Center of Open and Distance Learning": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Center for Entrepreneur Development": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "GSU Postgraduate School": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "School of Basic and Remedial Studies": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "University Zoo": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "University Clinic": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Medical College": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Faculty of Science Complex": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Faculty of pharmaceutical Science": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Faculty of Law": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Faculty of Arts and Social Sciences": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Faculty of Education": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "SRC garden": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Mango Garden": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Love Garden": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Faculty Rooms": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "A Block": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "E Block": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LC1 LC2 LC3 LC4 LC5 LC6": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 1&2": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT3": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT4": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT 5&6": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT 7&8": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT 9&10": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT11": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT12 & LT13": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT14": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LTA & LTB": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "New MPH": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Old MPH": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "English Theatre": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Science Complex Commercial Center": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "T Junction": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    }
+  },
+  "Male Hostel": {
+    "Male Hostel Mosque": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "GSU Juma’a Mosque": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "Old Female Hostel": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "New Female Hostel": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Center of Open and Distance Learning": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Center for Entrepreneur Development": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "GSU Postgraduate School": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "School of Basic and Remedial Studies": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "University Zoo": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "University Clinic": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "Medical College": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Faculty of Science Complex": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Faculty of pharmaceutical Science": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Faculty of Law": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "Faculty of Arts and Social Sciences": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "Faculty of Education": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "SRC garden": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Mango Garden": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "Love Garden": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Faculty Rooms": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "A Block": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "E Block": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LC1 LC2 LC3 LC4 LC5 LC6": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT 1&2": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT3": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT4": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "LT 5&6": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "LT 7&8": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "LT 9&10": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "LT11": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "LT12 & LT13": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "LT14": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "LTA & LTB": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "New MPH": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "Old MPH": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "English Theatre": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "Science Complex Commercial Center": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "T Junction": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    }
+  },
+  "Male Hostel Mosque": {
+    "GSU Juma’a Mosque": {
+      "distance_m": 1200,
+      "time_min": 6,
+      "price_naira": 200
+    },
+    "Old Female Hostel": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "New Female Hostel": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Center of Open and Distance Learning": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Center for Entrepreneur Development": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "GSU Postgraduate School": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "School of Basic and Remedial Studies": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "University Zoo": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "University Clinic": {
+      "distance_m": 1000,
+      "time_min": 5,
+      "price_naira": 200
+    },
+    "Medical College": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Faculty of Science Complex": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Faculty of pharmaceutical Science": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "Faculty of Law": {
+      "distance_m": 1000,
+      "time_min": 5,
+      "price_naira": 200
+    },
+    "Faculty of Arts and Social Sciences": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "Faculty of Education": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "SRC garden": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Mango Garden": {
+      "distance_m": 1000,
+      "time_min": 5,
+      "price_naira": 200
+    },
+    "Love Garden": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "Faculty Rooms": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "A Block": {
+      "distance_m": 1000,
+      "time_min": 5,
+      "price_naira": 200
+    },
+    "E Block": {
+      "distance_m": 1000,
+      "time_min": 5,
+      "price_naira": 200
+    },
+    "LC1 LC2 LC3 LC4 LC5 LC6": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "LT 1&2": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "LT3": {
+      "distance_m": 1000,
+      "time_min": 5,
+      "price_naira": 200
+    },
+    "LT4": {
+      "distance_m": 1000,
+      "time_min": 5,
+      "price_naira": 200
+    },
+    "LT 5&6": {
+      "distance_m": 1000,
+      "time_min": 5,
+      "price_naira": 200
+    },
+    "LT 7&8": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "LT 9&10": {
+      "distance_m": 1200,
+      "time_min": 6,
+      "price_naira": 200
+    },
+    "LT11": {
+      "distance_m": 1200,
+      "time_min": 6,
+      "price_naira": 200
+    },
+    "LT12 & LT13": {
+      "distance_m": 1200,
+      "time_min": 6,
+      "price_naira": 200
+    },
+    "LT14": {
+      "distance_m": 1000,
+      "time_min": 5,
+      "price_naira": 200
+    },
+    "LTA & LTB": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "New MPH": {
+      "distance_m": 1000,
+      "time_min": 5,
+      "price_naira": 200
+    },
+    "Old MPH": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "English Theatre": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "Science Complex Commercial Center": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "T Junction": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    }
+  },
+  "GSU Juma’a Mosque": {
+    "Old Female Hostel": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "New Female Hostel": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Center of Open and Distance Learning": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "Center for Entrepreneur Development": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "GSU Postgraduate School": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "School of Basic and Remedial Studies": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "University Zoo": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "University Clinic": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "Medical College": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "Faculty of Science Complex": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Faculty of pharmaceutical Science": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Faculty of Law": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Faculty of Arts and Social Sciences": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Faculty of Education": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "SRC garden": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Mango Garden": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Love Garden": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Faculty Rooms": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "A Block": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "E Block": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LC1 LC2 LC3 LC4 LC5 LC6": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 1&2": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT3": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT4": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 5&6": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT 7&8": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 9&10": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT11": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT12 & LT13": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT14": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LTA & LTB": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "New MPH": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Old MPH": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "English Theatre": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Science Complex Commercial Center": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "T Junction": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    }
+  },
+  "Old Female Hostel": {
+    "New Female Hostel": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Center of Open and Distance Learning": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Center for Entrepreneur Development": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "GSU Postgraduate School": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "School of Basic and Remedial Studies": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "University Zoo": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "University Clinic": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Medical College": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Faculty of Science Complex": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Faculty of pharmaceutical Science": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Faculty of Law": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Faculty of Arts and Social Sciences": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Faculty of Education": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "SRC garden": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Mango Garden": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Love Garden": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Faculty Rooms": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "A Block": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "E Block": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LC1 LC2 LC3 LC4 LC5 LC6": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT 1&2": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT3": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT4": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT 5&6": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT 7&8": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 9&10": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT11": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT12 & LT13": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT14": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LTA & LTB": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "New MPH": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Old MPH": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "English Theatre": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Science Complex Commercial Center": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "T Junction": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    }
+  },
+  "New Female Hostel": {
+    "Center of Open and Distance Learning": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "Center for Entrepreneur Development": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "GSU Postgraduate School": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "School of Basic and Remedial Studies": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "University Zoo": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "University Clinic": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Medical College": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Faculty of Science Complex": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Faculty of pharmaceutical Science": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Faculty of Law": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Faculty of Arts and Social Sciences": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Faculty of Education": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "SRC garden": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Mango Garden": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Love Garden": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Faculty Rooms": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "A Block": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "E Block": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LC1 LC2 LC3 LC4 LC5 LC6": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 1&2": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT3": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT4": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT 5&6": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT 7&8": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 9&10": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT11": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT12 & LT13": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT14": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LTA & LTB": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "New MPH": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Old MPH": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "English Theatre": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Science Complex Commercial Center": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "T Junction": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    }
+  },
+  "Center of Open and Distance Learning": {
+    "Center for Entrepreneur Development": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "GSU Postgraduate School": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "School of Basic and Remedial Studies": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "University Zoo": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "University Clinic": {
+      "distance_m": 1000,
+      "time_min": 5,
+      "price_naira": 200
+    },
+    "Medical College": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Faculty of Science Complex": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Faculty of pharmaceutical Science": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "Faculty of Law": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "Faculty of Arts and Social Sciences": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "Faculty of Education": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "SRC garden": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "Mango Garden": {
+      "distance_m": 1000,
+      "time_min": 5,
+      "price_naira": 200
+    },
+    "Love Garden": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Faculty Rooms": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "A Block": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "E Block": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LC1 LC2 LC3 LC4 LC5 LC6": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT 1&2": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT3": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "LT4": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "LT 5&6": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "LT 7&8": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "LT 9&10": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "LT11": {
+      "distance_m": 1000,
+      "time_min": 5,
+      "price_naira": 200
+    },
+    "LT12 & LT13": {
+      "distance_m": 1000,
+      "time_min": 5,
+      "price_naira": 200
+    },
+    "LT14": {
+      "distance_m": 1000,
+      "time_min": 5,
+      "price_naira": 200
+    },
+    "LTA & LTB": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "New MPH": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "Old MPH": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "English Theatre": {
+      "distance_m": 1000,
+      "time_min": 5,
+      "price_naira": 200
+    },
+    "Science Complex Commercial Center": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "T Junction": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    }
+  },
+  "Center for Entrepreneur Development": {
+    "GSU Postgraduate School": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "School of Basic and Remedial Studies": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "University Zoo": {
+      "distance_m": 1000,
+      "time_min": 5,
+      "price_naira": 200
+    },
+    "University Clinic": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Medical College": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "Faculty of Science Complex": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Faculty of pharmaceutical Science": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Faculty of Law": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Faculty of Arts and Social Sciences": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Faculty of Education": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "SRC garden": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Mango Garden": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Love Garden": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Faculty Rooms": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "A Block": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "E Block": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LC1 LC2 LC3 LC4 LC5 LC6": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT 1&2": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT3": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT4": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 5&6": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT 7&8": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 9&10": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT11": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT12 & LT13": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT14": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LTA & LTB": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "New MPH": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Old MPH": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "English Theatre": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Science Complex Commercial Center": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "T Junction": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    }
+  },
+  "GSU Postgraduate School": {
+    "School of Basic and Remedial Studies": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "University Zoo": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "University Clinic": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Medical College": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Faculty of Science Complex": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Faculty of pharmaceutical Science": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Faculty of Law": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Faculty of Arts and Social Sciences": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Faculty of Education": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "SRC garden": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Mango Garden": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Love Garden": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Faculty Rooms": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "A Block": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "E Block": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LC1 LC2 LC3 LC4 LC5 LC6": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT 1&2": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT3": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT4": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 5&6": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT 7&8": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 9&10": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT11": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT12 & LT13": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT14": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LTA & LTB": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "New MPH": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Old MPH": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "English Theatre": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Science Complex Commercial Center": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "T Junction": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    }
+  },
+  "School of Basic and Remedial Studies": {
+    "University Zoo": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "University Clinic": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Medical College": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "Faculty of Science Complex": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Faculty of pharmaceutical Science": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Faculty of Law": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Faculty of Arts and Social Sciences": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Faculty of Education": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "SRC garden": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Mango Garden": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Love Garden": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Faculty Rooms": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "A Block": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "E Block": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LC1 LC2 LC3 LC4 LC5 LC6": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 1&2": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT3": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT4": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT 5&6": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 7&8": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT 9&10": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT11": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT12 & LT13": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT14": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LTA & LTB": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "New MPH": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Old MPH": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "English Theatre": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Science Complex Commercial Center": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "T Junction": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    }
+  },
+  "University Zoo": {
+    "University Clinic": {
+      "distance_m": 1000,
+      "time_min": 5,
+      "price_naira": 200
+    },
+    "Medical College": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Faculty of Science Complex": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Faculty of pharmaceutical Science": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Faculty of Law": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "Faculty of Arts and Social Sciences": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "Faculty of Education": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "SRC garden": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Mango Garden": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "Love Garden": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Faculty Rooms": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "A Block": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "E Block": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LC1 LC2 LC3 LC4 LC5 LC6": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT 1&2": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT3": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "LT4": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "LT 5&6": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "LT 7&8": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT 9&10": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "LT11": {
+      "distance_m": 1000,
+      "time_min": 5,
+      "price_naira": 200
+    },
+    "LT12 & LT13": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "LT14": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "LTA & LTB": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "New MPH": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "Old MPH": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "English Theatre": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Science Complex Commercial Center": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "T Junction": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    }
+  },
+  "University Clinic": {
+    "Medical College": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "Faculty of Science Complex": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Faculty of pharmaceutical Science": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Faculty of Law": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Faculty of Arts and Social Sciences": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Faculty of Education": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "SRC garden": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Mango Garden": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Love Garden": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Faculty Rooms": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "A Block": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "E Block": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LC1 LC2 LC3 LC4 LC5 LC6": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT 1&2": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT3": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT4": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "LT 5&6": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT 7&8": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 9&10": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT11": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT12 & LT13": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT14": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LTA & LTB": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "New MPH": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Old MPH": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "English Theatre": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Science Complex Commercial Center": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "T Junction": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    }
+  },
+  "Medical College": {
+    "Faculty of Science Complex": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Faculty of pharmaceutical Science": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Faculty of Law": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "Faculty of Arts and Social Sciences": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "Faculty of Education": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "SRC garden": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Mango Garden": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "Love Garden": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Faculty Rooms": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "A Block": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "E Block": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LC1 LC2 LC3 LC4 LC5 LC6": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT 1&2": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT3": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "LT4": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "LT 5&6": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "LT 7&8": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT 9&10": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "LT11": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "LT12 & LT13": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "LT14": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "LTA & LTB": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "New MPH": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "Old MPH": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "English Theatre": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Science Complex Commercial Center": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "T Junction": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    }
+  },
+  "Faculty of Science Complex": {
+    "Faculty of pharmaceutical Science": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Faculty of Law": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Faculty of Arts and Social Sciences": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Faculty of Education": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "SRC garden": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Mango Garden": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Love Garden": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Faculty Rooms": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "A Block": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "E Block": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LC1 LC2 LC3 LC4 LC5 LC6": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 1&2": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT3": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT4": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT 5&6": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 7&8": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 9&10": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT11": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT12 & LT13": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT14": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LTA & LTB": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "New MPH": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Old MPH": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "English Theatre": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Science Complex Commercial Center": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "T Junction": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    }
+  },
+  "Faculty of pharmaceutical Science": {
+    "Faculty of Law": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Faculty of Arts and Social Sciences": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Faculty of Education": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "SRC garden": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Mango Garden": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Love Garden": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Faculty Rooms": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "A Block": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "E Block": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LC1 LC2 LC3 LC4 LC5 LC6": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 1&2": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT3": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT4": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT 5&6": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 7&8": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT 9&10": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT11": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT12 & LT13": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT14": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LTA & LTB": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "New MPH": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Old MPH": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "English Theatre": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Science Complex Commercial Center": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "T Junction": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    }
+  },
+  "Faculty of Law": {
+    "Faculty of Arts and Social Sciences": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Faculty of Education": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "SRC garden": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Mango Garden": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Love Garden": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Faculty Rooms": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "A Block": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "E Block": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LC1 LC2 LC3 LC4 LC5 LC6": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 1&2": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT3": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT4": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 5&6": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 7&8": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 9&10": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT11": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT12 & LT13": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT14": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LTA & LTB": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "New MPH": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Old MPH": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "English Theatre": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Science Complex Commercial Center": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "T Junction": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    }
+  },
+  "Faculty of Arts and Social Sciences": {
+    "Faculty of Education": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "SRC garden": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Mango Garden": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Love Garden": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Faculty Rooms": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "A Block": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "E Block": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LC1 LC2 LC3 LC4 LC5 LC6": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 1&2": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT3": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT4": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT 5&6": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT 7&8": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 9&10": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT11": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT12 & LT13": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT14": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LTA & LTB": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "New MPH": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Old MPH": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "English Theatre": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Science Complex Commercial Center": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "T Junction": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    }
+  },
+  "Faculty of Education": {
+    "SRC garden": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Mango Garden": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Love Garden": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Faculty Rooms": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "A Block": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "E Block": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LC1 LC2 LC3 LC4 LC5 LC6": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 1&2": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT3": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT4": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 5&6": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 7&8": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT 9&10": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT11": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT12 & LT13": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT14": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LTA & LTB": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "New MPH": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Old MPH": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "English Theatre": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Science Complex Commercial Center": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "T Junction": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    }
+  },
+  "SRC garden": {
+    "Mango Garden": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Love Garden": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Faculty Rooms": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "A Block": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "E Block": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LC1 LC2 LC3 LC4 LC5 LC6": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 1&2": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT3": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT4": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 5&6": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 7&8": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT 9&10": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT11": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT12 & LT13": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT14": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LTA & LTB": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "New MPH": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Old MPH": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "English Theatre": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Science Complex Commercial Center": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "T Junction": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    }
+  },
+  "Mango Garden": {
+    "Love Garden": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Faculty Rooms": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "A Block": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "E Block": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LC1 LC2 LC3 LC4 LC5 LC6": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT 1&2": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT3": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT4": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT 5&6": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT 7&8": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 9&10": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT11": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT12 & LT13": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT14": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LTA & LTB": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "New MPH": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Old MPH": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "English Theatre": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Science Complex Commercial Center": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "T Junction": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    }
+  },
+  "Love Garden": {
+    "Faculty Rooms": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "A Block": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "E Block": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LC1 LC2 LC3 LC4 LC5 LC6": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT 1&2": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT3": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT4": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 5&6": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 7&8": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 9&10": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT11": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT12 & LT13": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT14": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LTA & LTB": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "New MPH": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Old MPH": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "English Theatre": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Science Complex Commercial Center": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "T Junction": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    }
+  },
+  "Faculty Rooms": {
+    "A Block": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "E Block": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LC1 LC2 LC3 LC4 LC5 LC6": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT 1&2": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT3": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT4": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 5&6": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT 7&8": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 9&10": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT11": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT12 & LT13": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT14": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LTA & LTB": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "New MPH": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Old MPH": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "English Theatre": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Science Complex Commercial Center": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "T Junction": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    }
+  },
+  "A Block": {
+    "E Block": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LC1 LC2 LC3 LC4 LC5 LC6": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT 1&2": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT3": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT4": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 5&6": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT 7&8": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 9&10": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT11": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT12 & LT13": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT14": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LTA & LTB": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "New MPH": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Old MPH": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "English Theatre": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Science Complex Commercial Center": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "T Junction": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    }
+  },
+  "E Block": {
+    "LC1 LC2 LC3 LC4 LC5 LC6": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT 1&2": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT3": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT4": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT 5&6": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT 7&8": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT 9&10": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT11": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT12 & LT13": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT14": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LTA & LTB": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "New MPH": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Old MPH": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "English Theatre": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Science Complex Commercial Center": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "T Junction": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    }
+  },
+  "LC1 LC2 LC3 LC4 LC5 LC6": {
+    "LT 1&2": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT3": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT4": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT 5&6": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT 7&8": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT 9&10": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT11": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT12 & LT13": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT14": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LTA & LTB": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "New MPH": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Old MPH": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "English Theatre": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Science Complex Commercial Center": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "T Junction": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    }
+  },
+  "LT 1&2": {
+    "LT3": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT4": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT 5&6": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT 7&8": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT 9&10": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT11": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT12 & LT13": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT14": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LTA & LTB": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "New MPH": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Old MPH": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "English Theatre": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Science Complex Commercial Center": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "T Junction": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    }
+  },
+  "LT3": {
+    "LT4": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT 5&6": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT 7&8": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT 9&10": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT11": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT12 & LT13": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT14": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LTA & LTB": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "New MPH": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Old MPH": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "English Theatre": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Science Complex Commercial Center": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "T Junction": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    }
+  },
+  "LT4": {
+    "LT 5&6": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT 7&8": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "LT 9&10": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT11": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT12 & LT13": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT14": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LTA & LTB": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "New MPH": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Old MPH": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "English Theatre": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Science Complex Commercial Center": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "T Junction": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    }
+  },
+  "LT 5&6": {
+    "LT 7&8": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT 9&10": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT11": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT12 & LT13": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT14": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LTA & LTB": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "New MPH": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Old MPH": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "English Theatre": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Science Complex Commercial Center": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "T Junction": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    }
+  },
+  "LT 7&8": {
+    "LT 9&10": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT11": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT12 & LT13": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LT14": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "LTA & LTB": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "New MPH": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Old MPH": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "English Theatre": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Science Complex Commercial Center": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "T Junction": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    }
+  },
+  "LT 9&10": {
+    "LT11": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT12 & LT13": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT14": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LTA & LTB": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "New MPH": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Old MPH": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "English Theatre": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Science Complex Commercial Center": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "T Junction": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    }
+  },
+  "LT11": {
+    "LT12 & LT13": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LT14": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LTA & LTB": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "New MPH": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Old MPH": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "English Theatre": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Science Complex Commercial Center": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "T Junction": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    }
+  },
+  "LT12 & LT13": {
+    "LT14": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "LTA & LTB": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "New MPH": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Old MPH": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "English Theatre": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Science Complex Commercial Center": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "T Junction": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    }
+  },
+  "LT14": {
+    "LTA & LTB": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "New MPH": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "Old MPH": {
+      "distance_m": 800,
+      "time_min": 4,
+      "price_naira": 200
+    },
+    "English Theatre": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Science Complex Commercial Center": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "T Junction": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    }
+  },
+  "LTA & LTB": {
+    "New MPH": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Old MPH": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "English Theatre": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Science Complex Commercial Center": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "T Junction": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    }
+  },
+  "New MPH": {
+    "Old MPH": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "English Theatre": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "Science Complex Commercial Center": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    },
+    "T Junction": {
+      "distance_m": 600,
+      "time_min": 3,
+      "price_naira": 200
+    }
+  },
+  "Old MPH": {
+    "English Theatre": {
+      "distance_m": 400,
+      "time_min": 2,
+      "price_naira": 150
+    },
+    "Science Complex Commercial Center": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "T Junction": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    }
+  },
+  "English Theatre": {
+    "Science Complex Commercial Center": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    },
+    "T Junction": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    }
+  },
+  "Science Complex Commercial Center": {
+    "T Junction": {
+      "distance_m": 200,
+      "time_min": 1,
+      "price_naira": 100
+    }
+  }
+}
