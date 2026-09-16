@@ -92,6 +92,39 @@ class _DriverHomeScreenState extends State<DriverHomeScreen> {
   Future<void> _updateRideStatus(String rideId, String newStatus) async {
     if (currentUser == null) return;
     try {
+      // NEW FIX: Suspension Check before accepting a ride!
+      if (newStatus == 'accepted') {
+        DocumentSnapshot userDoc = await FirebaseFirestore.instance.collection('users').doc(currentUser!.uid).get();
+        bool isSuspended = (userDoc.data() as Map<String, dynamic>)['isSuspended'] ?? false;
+        
+        if (isSuspended) {
+          if (mounted) {
+            showDialog(
+              context: context,
+              builder: (ctx) => AlertDialog(
+                shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(15)),
+                title: const Row(
+                  children: [
+                    Icon(Icons.warning_amber_rounded, color: Colors.redAccent, size: 28),
+                    SizedBox(width: 10),
+                    Text('Account Suspended', style: TextStyle(color: Colors.redAccent, fontWeight: FontWeight.bold)),
+                  ],
+                ),
+                content: const Text('Contact admin to resolve issue, it\'s likely that you didn\'t settle your outstanding balance.', style: TextStyle(fontSize: 16)),
+                actions: [
+                  ElevatedButton(
+                    style: ElevatedButton.styleFrom(backgroundColor: const Color(0xFF5A5BFF)),
+                    onPressed: () => Navigator.pop(ctx),
+                    child: const Text('Understood', style: TextStyle(color: Colors.white)),
+                  )
+                ],
+              ),
+            );
+          }
+          return; // Stop the code here so they cannot accept the ride
+        }
+      }
+
       await FirebaseFirestore.instance.collection('ride_requests').doc(rideId).update({
         'status': newStatus,
         if (newStatus == 'accepted') 'driverId': currentUser!.uid,
@@ -220,12 +253,9 @@ class _DriverHomeScreenState extends State<DriverHomeScreen> {
                               
                               if (ts != null) {
                                 DateTime date = ts.toDate();
-                                double netPay = 0;
-                                if (data.containsKey('driverNet')) {
-                                  netPay = data['driverNet'].toDouble();
-                                } else {
-                                  netPay = (data['price'] ?? 200).toDouble() * driverFraction;
-                                }
+                                
+                                double price = (data['price'] ?? 200).toDouble();
+                                double netPay = price * driverFraction; 
                                 
                                 allTime += netPay;
                                 if (date.year == now.year) year += netPay;
@@ -361,7 +391,6 @@ class _DriverHomeScreenState extends State<DriverHomeScreen> {
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: [
                   Builder(builder: (context) => CircleAvatar(backgroundColor: Colors.white, child: IconButton(icon: const Icon(Icons.menu, color: Colors.black), onPressed: () => Scaffold.of(context).openDrawer()))),
-                  // FIX IS HERE: isDriverMode is set to true
                   CircleAvatar(backgroundColor: Colors.white, child: IconButton(icon: const Icon(Icons.notifications_none, color: Colors.black), onPressed: () => Navigator.push(context, MaterialPageRoute(builder: (context) => const NotificationsScreen(isDriverMode: true))))),
                 ],
               ),
@@ -397,36 +426,58 @@ class _DriverHomeScreenState extends State<DriverHomeScreen> {
                   const SizedBox(height: 8),
                   
                   StreamBuilder<DocumentSnapshot>(
-                    stream: FirebaseFirestore.instance.collection('users').doc(currentUser?.uid).snapshots(),
-                    builder: (context, snapshot) {
-                      int rides = 0;
-                      int earnings = 0;
-                      if (snapshot.hasData && snapshot.data!.exists) {
-                        var data = snapshot.data!.data() as Map<String, dynamic>?;
-                        rides = data?['completedRides'] ?? 0;
-                        earnings = data?['earnings'] ?? 0;
+                    stream: FirebaseFirestore.instance.collection('settings').doc('platform').snapshots(),
+                    builder: (context, settingsSnapshot) {
+                      double currentCut = 15.0;
+                      if (settingsSnapshot.hasData && settingsSnapshot.data!.exists) {
+                        var sData = settingsSnapshot.data!.data() as Map<String, dynamic>;
+                        currentCut = (sData['adminCutPercentage'] ?? 15.0).toDouble();
                       }
-                      return Container(
-                        padding: const EdgeInsets.all(16),
-                        decoration: BoxDecoration(color: const Color(0xFFF4F6FF), borderRadius: BorderRadius.circular(20)),
-                        child: Row(
-                          mainAxisAlignment: MainAxisAlignment.spaceAround,
-                          children: [
-                            Column(
+                      double driverFraction = 1.0 - (currentCut / 100.0);
+
+                      return StreamBuilder<QuerySnapshot>(
+                        stream: FirebaseFirestore.instance.collection('ride_requests')
+                            .where('driverId', isEqualTo: currentUser?.uid)
+                            .where('status', isEqualTo: 'completed')
+                            .snapshots(),
+                        builder: (context, rideSnapshot) {
+                          int rides = 0;
+                          double totalNetEarnings = 0;
+
+                          if (rideSnapshot.hasData) {
+                            rides = rideSnapshot.data!.docs.length;
+                            for (var doc in rideSnapshot.data!.docs) {
+                              var data = doc.data() as Map<String, dynamic>;
+                              double price = (data['price'] ?? 200).toDouble();
+                              totalNetEarnings += (price * driverFraction);
+                            }
+                          }
+
+                          int displayEarnings = totalNetEarnings.toInt(); 
+
+                          return Container(
+                            padding: const EdgeInsets.all(16),
+                            decoration: BoxDecoration(color: const Color(0xFFF4F6FF), borderRadius: BorderRadius.circular(20)),
+                            child: Row(
+                              mainAxisAlignment: MainAxisAlignment.spaceAround,
                               children: [
-                                Text('₦$earnings', style: const TextStyle(fontSize: 24, fontWeight: FontWeight.bold, color: Color(0xFF5A5BFF))),
-                                const Text("Total Net Earnings", style: TextStyle(color: Colors.grey, fontSize: 12)),
+                                Column(
+                                  children: [
+                                    Text('₦$displayEarnings', style: const TextStyle(fontSize: 24, fontWeight: FontWeight.bold, color: Color(0xFF5A5BFF))),
+                                    const Text("Total Net Earnings", style: TextStyle(color: Colors.grey, fontSize: 12)),
+                                  ],
+                                ),
+                                Container(height: 40, width: 1, color: Colors.grey),
+                                Column(
+                                  children: [
+                                    Text('$rides', style: const TextStyle(fontSize: 24, fontWeight: FontWeight.bold, color: Colors.black87)),
+                                    const Text('Completed Rides', style: TextStyle(color: Colors.grey, fontSize: 12)),
+                                  ],
+                                ),
                               ],
                             ),
-                            Container(height: 40, width: 1, color: Colors.grey),
-                            Column(
-                              children: [
-                                Text('$rides', style: const TextStyle(fontSize: 24, fontWeight: FontWeight.bold, color: Colors.black87)),
-                                const Text('Completed Rides', style: TextStyle(color: Colors.grey, fontSize: 12)),
-                              ],
-                            ),
-                          ],
-                        ),
+                          );
+                        },
                       );
                     },
                   ),
